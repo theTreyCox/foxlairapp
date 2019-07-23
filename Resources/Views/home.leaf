@@ -3,5 +3,6 @@
         <p>Name: #(name)</p>
         <p>City: #(city)</p>
         <p>Genre: #(genre)</p>
+        <p>Friend: #(friend)</p>
     </body>
 </html>

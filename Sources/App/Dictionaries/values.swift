@@ -11,4 +11,5 @@ let values = [
     "name": "Eminem",
     "city": "Detroit",
     "genre": "Hip-Hop",
+    "friend": "Proof",
 ]
