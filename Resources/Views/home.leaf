@@ -1,5 +1,7 @@
 <html>
     <body>
-        <p>Hello, Vappppoorrrr!</p>
+        <p>Name: #(name)</p>
+        <p>City: #(city)</p>
+        <p>Genre: #(genre)</p>
     </body>
 </html>
